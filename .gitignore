@@ -10,3 +10,4 @@ rebel.xml
 .mvn/
 .rdb
 dump.rdb
+*.releaseBackup
