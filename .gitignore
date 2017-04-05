@@ -11,3 +11,4 @@ rebel.xml
 .rdb
 dump.rdb
 *.releaseBackup
+release.properties
