@@ -70,4 +70,16 @@
 		</plugins>
 	</build>
 	
+	<!-- Repositorios Dependencias -->
+	<repositories>
+		<repository>
+			<id>central</id>
+			<name>central</name>
+			<url>http://jfrog.brasilct.net:8081/artifactory/libs-release-local</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+	
 </project>
